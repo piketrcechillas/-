@@ -1,0 +1,2 @@
+Name,Duration in turns,Automatic Recovery,Restrict,Status Condition Options,Optional Skills,Deduction each turn,Auto Removal Condition,Parameter Bonus,
+Ultimate Power,5,0,,,,1,1,Str+5 Skl+5 Spd+5 Def+5 Res+5,
